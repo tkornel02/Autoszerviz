@@ -7,10 +7,11 @@
 ## Usage
 
 1. **Launching the Program:**
-   - Start from the command line without parameters.
-   - Ensure three empty text files: `customers.txt`, `cars.txt`, and `repairs.txt`.
+   - Clone repo and navigate in the **/bin** directory
+   - Ensure three text files: `customers.txt`, `cars.txt`, and `repairs.txt`
+   - these text files have random data for showcasing purposes
 
-2. **Adding Data:**
+3. **Adding Data:**
    - Select option 1 in the main menu.
    - Choose the data type to add (Customer, Car, or Repair).
 
@@ -23,25 +24,25 @@
      - *Adding a Repair:*
         - Format: `license plate [enter]`, `repair date (yyyy mm dd) [enter]`, `repair type [enter]`, `repair cost [enter]`
 
-3. **Searching for Data:**
+4. **Searching for Data:**
    - In submenu 2, search for cars or customers.
 
-4. **Deleting Data:**
+5. **Deleting Data:**
    - In submenu 3, delete customers or cars.
 
-5. **Service History:**
+6. **Service History:**
    - Select option 4, enter a car's license plate to display its repair history.
 
-6. **Displaying Data:**
+7. **Displaying Data:**
    - In submenu 5, choose to display all cars, customers, or repairs.
 
-7. **Expiring Soon:**
+8. **Expiring Soon:**
    - Select option 6 to display cars with upcoming technical inspections.
 
-8. **Save Changes:**
+9. **Save Changes:**
    - Option 7 allows saving modifications without exiting the program.
 
-9. **Save and Exit:**
+10. **Save and Exit:**
    - Selecting option 0 in the main menu saves modifications and exits.
 
 ## Notes:
